@@ -13,7 +13,7 @@ You will need access to an High Performance Computing (HPC) machine, as well as 
 This module was made possible by the NSF Idaho EPSCoR Program and by the National Science Foundation under award number OIA-1757324. Special thanks to the [Smithsonian-Mason School of Conservation](https://smconservation.gmu.edu) and its instructors for this teaching this material.
 
 ## Contact
-For questions regarding this repository, please contact Morgan Calahan at morgancalahan@boisestate.edu.
+For questions, please contact Morgan Calahan at morgancalahan@boisestate.edu.
 
 ## Licensing
 
